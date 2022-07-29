@@ -1,1 +1,0 @@
-XOR texture with gray scale ANSI colors.

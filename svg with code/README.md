@@ -1,3 +1,3 @@
-![Diagram](diagram.svg)
+![](diagram.svg)
 
-![Silly!](silly.svg)
+![!](silly.svg)

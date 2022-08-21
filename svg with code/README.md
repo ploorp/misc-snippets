@@ -1,7 +1,5 @@
 # some svg examples and whatever
 
-#####
-
 <details><summary>System default mode</summary><br>
 
 ![system](https://raw.githubusercontent.com/jgraph/drawio-github/master/diagram-light-dark.svg)

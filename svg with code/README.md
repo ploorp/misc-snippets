@@ -2,6 +2,7 @@
 
 ![system](https://raw.githubusercontent.com/jgraph/drawio-github/master/diagram-light-dark.svg)
 
+--- 
 </details>
 
 
@@ -9,18 +10,19 @@
 
 ![light](https://raw.githubusercontent.com/jgraph/drawio-github/master/diagram-target-dark.svg)
 
+--- 
 </details>
 
 
 <details><summary>Forced dark mode</summary><br>
 
 ![dark](https://raw.githubusercontent.com/jgraph/drawio-github/master/diagram-target-dark.svg#dark)
-
+  
 </details>
 
 ---
 
-![](diagram.svg)
+<img src="diagram.svg" width="100%"></img>
 
 ---
 

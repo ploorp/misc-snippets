@@ -11,9 +11,8 @@
   
   <g>
     <rect width="95%" height="35" fill="black" stroke="blue" stroke-width="3" />
-    <text font-family="SVGFreeSansASCII,sans-serif" font-weight="bold" font-size="20" text-anchor="middle" y="30" x="100%" fill="white">Some awesome text</text>
+    <text font-family="SVGFreeSansASCII,sans-serif" font-weight="bold" font-size="20" text-anchor="middle" y="30" x="0" fill="white">Some awesome text</text>
   </g>
-  
   
 </svg>
 

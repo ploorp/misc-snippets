@@ -13,5 +13,5 @@ snippets and stuff
 
 ---
 
-<h3>silly3 markdown</h3>
+<h3>silly3 html</h3>
 <img src="silly3.svg" width="100%" height="1000">

@@ -1,0 +1,7 @@
+<svg width="250px" height="120px"  xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <text font-size="32"  x="25" y="60">
+      Hello, World!
+    </text>
+  </g>
+</svg>  

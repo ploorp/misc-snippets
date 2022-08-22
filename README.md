@@ -15,10 +15,10 @@ snippets and stuff
 
 ---
 
-### picture changes depending on screen width
-
+<details><summary>A picture that changes based on screen width</summary><br>
 <picture>
   <source media="(min-width:650px)" srcset="https://www.w3schools.com/tags/img_pink_flowers.jpg">
   <source media="(min-width:465px)" srcset="https://www.w3schools.com/tags/img_white_flower.jpg">
   <img src="https://www.w3schools.com/tags/img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
 </picture>
+</details>

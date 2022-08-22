@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:h="http://www.w3.org/1999/xhtml"><text x="1" y="20" color="white" font-size="12">Contents</text></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="549px" height="382px" viewBox="-0.5 -0.5 549 382" style="background-color: rgb(255, 255, 255);"><defs>
+<style type="text/css">
+@media (prefers-color-scheme: dark)
+{
+    :root {--light-color: #c9d1d9; --dark-color: #0d1117; }
+    svg[style^="background-color:"] { background-color: var(--dark-color) !important; }
+    g[filter="url(#dropShadow)"] { filter: none !important; }
+    [stroke="rgb(0, 0, 0)"] { stroke: var(--light-color); }
+    [stroke="rgb(255, 255, 255)"] { stroke: var(--dark-color); }
+    [fill="rgb(0, 0, 0)"] { fill: var(--light-color); }
+    [fill="rgb(255, 255, 255)"] { fill: var(--dark-color); }
+    g[fill="rgb(0, 0, 0)"] text { fill: var(--light-color); }
+    div[data-drawio-colors*="color: rgb(0, 0, 0)"]
+        div { color: var(--light-color) !important; }
+    div[data-drawio-colors*="border-color: rgb(0, 0, 0)"]
+        { border-color: var(--light-color) !important; }
+    div[data-drawio-colors*="border-color: rgb(0, 0, 0)"]
+        div { border-color: var(--light-color) !important; }
+    div[data-drawio-colors*="background-color: rgb(255, 255, 255)"]
+        { background-color: var(--dark-color) !important; }
+    div[data-drawio-colors*="background-color: rgb(255, 255, 255)"]
+        div { background-color: var(--dark-color) !important; }
+}
+</style>
+<text text-anchor="middle" font-size="12px" x="0" y="12">Contents</text></a></switch></svg>

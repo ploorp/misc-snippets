@@ -1,40 +1,53 @@
-# <details><summary>Header</summary><img src=https://raw.githubusercontent.com/ploorp/misc-snippets/efa2c7995711eb2b2e19a50c2441d972e1fe7eb3/txt-tst.svg></details>
+<h2><details><summary>Header1</summary><sub><sup><br>
+      
+Small text!!!
+
+<br></sup></sub>
+    
+```html
+<h2><details><summary>Heading2</summary><sub><sup><br>
+
+Small text!!!
+
+<br></sup></sub></details></h2>
+```
+
+</details></h2>
+    
+    
+***
 
 
-@jeremiey 
+## **<details><summary>Heading2</summary><sub><sup>Small text!!!</sup></sub></details>**
 
-<details><summary>
-
-</summary><a name="anchor-test"></details>
-
-
-----------------------------------------------------------
-
-See [creating an anchor link anywhere](#anchor-test)
-
-<details><summary>
-
-Header
--
+<details>
   
-</summary>Contents</details>
+```html
+## **<details><summary>Heading2</summary><sub><sup>Small text!!!</sup></sub></details>**
+```
+</details>
 
-<details open=""><summary></summary></details>
 
-----------------------------------------------------------
+***
 
 
-# <details><summary>Header</summary>Contents</details>
+<details><summary><h2>Heading</h2></summary>
 
-----------------------------------------------------------
+Small text!!!
+   
+```html
+<details><summary><h2>Heading</h2></summary>
 
-<h1><details><summary>Header</summary>
+Small text!!!
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:h="http://www.w3.org/1999/xhtml"><text x="1" y="20" color="black" font-family="Verdana" font-weight="bold" font-size="20">Contents</text></svg>
+</details>
+```
 
-</details></h1>
+</details>
 
-----------------------------------------------------------
 
-|![](https://user-images.githubusercontent.com/36242395/185816283-bc71cdf1-42e2-4abd-bc33-4296a78221b9.png)|
-|---|
+***
+
+
+## <details><summary>Header</summary><img src=https://raw.githubusercontent.com/ploorp/misc-snippets/efa2c7995711eb2b2e19a50c2441d972e1fe7eb3/txt-tst.svg></details>
+

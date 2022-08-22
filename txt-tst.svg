@@ -1,5 +1,5 @@
-<svg width="100%" height="100%" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:h="http://www.w3.org/1999/xhtml">
+<svg width="120" height="20" viewBox="0 0 120 20" xmlns="http://www.w3.org/2000/svg" xmlns:h="http://www.w3.org/1999/xhtml">
 
-<text y="5" x="5" font-family="Verdana" font-weight="bold" font-size="20" fill="black" text-anchor="middle">Some awesome text!</text> 
-  
+<text y="15" x="1" font-family="Verdana" font-weight="bold" font-size="15" fill="black">Text contents</text> 
+
 </svg>
